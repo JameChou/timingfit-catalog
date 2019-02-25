@@ -1,4 +1,4 @@
-## Precor Urethane Mode Dumbbells
+## Black Line Mode Urethane Dumbbell 
 
 {% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
 
@@ -15,7 +15,7 @@
 * **Packing**: 20KG/CTN,then 1ton/wooden case
 
 ### PHOTOS 
-<img src="/imgs/DB/JC-DB1033/urethane_precor_db1033.jpg" width="666px" height="666px" />
+<img src="/imgs/DB/JC-DB1035/round_head_line_db1035.jpg" width="666px" height="666px" />
 <img src="/imgs/DB/JC-DB1031/front_without_logo.jpg" width="666px" height="666px" />
 <img src="/imgs/DB/JC-DB1031/dumbbell_handle_details.jpg" width="666px" height="666px" />
 

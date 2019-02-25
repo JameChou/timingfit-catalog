@@ -15,7 +15,7 @@
 			"copyrightColor": "#666",
 			"utcOffset": "8",
 			"isShowQRCode": true,
-			"baseUri": "https://blog.timingfit.com",
+			"baseUri": "https://catalog.timingfit.com/",
                         "isShowIssues": false,
 			"repo": "aleen42/PersonalWiki",
 			"issueNum": "8",

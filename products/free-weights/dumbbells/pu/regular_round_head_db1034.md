@@ -1,9 +1,9 @@
-## Precor Urethane Mode Dumbbells
+## Round Head Mode Urethane Dumbbell 
 
 {% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
 
 ### PARAMETER 
-* **ITEM NO**: JC-DB1033
+* **ITEM NO**: JC-DB1034
 * **DESC**: CHIRUS CPU/TPU dumbbell
 * **Material**: Cast iron+rubber+steel
 * **Processing**: Casting+PU coating
@@ -15,7 +15,7 @@
 * **Packing**: 20KG/CTN,then 1ton/wooden case
 
 ### PHOTOS 
-<img src="/imgs/DB/JC-DB1033/urethane_precor_db1033.jpg" width="666px" height="666px" />
+<img src="/imgs/DB/JC-DB1034/round_head_db1034.jpg" width="666px" height="666px" />
 <img src="/imgs/DB/JC-DB1031/front_without_logo.jpg" width="666px" height="666px" />
 <img src="/imgs/DB/JC-DB1031/dumbbell_handle_details.jpg" width="666px" height="666px" />
 

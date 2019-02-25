@@ -1,23 +1,21 @@
-## Precor Urethane Mode Dumbbells
-
-{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
+## American Cap Urethane Dumbbell 
 
 ### PARAMETER 
-* **ITEM NO**: JC-DB1033
-* **DESC**: CHIRUS CPU/TPU dumbbell
+* **ITEM NO**: JC-DB1006
+* **DESC**: Pro-style SDH rubber covered dumbbell
 * **Material**: Cast iron+rubber+steel
-* **Processing**: Casting+PU coating
+* **Processing**: Casting+rubber coating
 * **OEM**: Y
 * **Color**: As per customer
-* **Logo**: As per customer, laser cutting logo.
+* **Logo**: As per customer
 * **Size**: 2.5KG-50KG,5LB-100LB
 * **Users**: Home use / Commerical Use
 * **Packing**: 20KG/CTN,then 1ton/wooden case
 
 ### PHOTOS 
-<img src="/imgs/DB/JC-DB1033/urethane_precor_db1033.jpg" width="666px" height="666px" />
-<img src="/imgs/DB/JC-DB1031/front_without_logo.jpg" width="666px" height="666px" />
-<img src="/imgs/DB/JC-DB1031/dumbbell_handle_details.jpg" width="666px" height="666px" />
+<img src="/imgs/DB/JC-DB1006/High-Quality-round-PU-Rubber-Dumbbell-In (1).jpg" width="666px" height="666px" />
+<img src="/imgs/DB/JC-DB1006/High-Quality-round-PU-Rubber-Dumbbell-In (2).jpg" width="666px" height="666px" />
+<img src="/imgs/DB/JC-DB1006/High-Quality-round-PU-Rubber-Dumbbell-In (4).jpg" width="666px" height="666px" />
 
 ### SERVICE
 * High-Quality Control.

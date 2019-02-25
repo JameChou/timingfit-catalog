@@ -1,23 +1,21 @@
-## Precor Urethane Mode Dumbbells
+## Hex Rubber Coated Dumbbell
 
-{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
-
-### PARAMETER 
-* **ITEM NO**: JC-DB1033
-* **DESC**: CHIRUS CPU/TPU dumbbell
+### PARAMETER
+* **ITEM NO**: JC-DB1005
+* **DESC**: Black rubber hex dumbbell
 * **Material**: Cast iron+rubber+steel
-* **Processing**: Casting+PU coating
+* **Processing**: Casting+rubber coating
 * **OEM**: Y
 * **Color**: As per customer
-* **Logo**: As per customer, laser cutting logo.
-* **Size**: 2.5KG-50KG,5LB-100LB
+* **Logo**: As per customer
+* **Size**: 1KG-60KG, 2LB-130LB
 * **Users**: Home use / Commerical Use
 * **Packing**: 20KG/CTN,then 1ton/wooden case
 
 ### PHOTOS 
-<img src="/imgs/DB/JC-DB1033/urethane_precor_db1033.jpg" width="666px" height="666px" />
-<img src="/imgs/DB/JC-DB1031/front_without_logo.jpg" width="666px" height="666px" />
-<img src="/imgs/DB/JC-DB1031/dumbbell_handle_details.jpg" width="666px" height="666px" />
+<img src="/imgs/DB/JC-DB1005/Rubber-Hex-Dumbbell-Single-front.jpg" width="666px" height="666px" />
+<img src="/imgs/DB/JC-DB1005/Rubber-Hex-Dumbbell-Head.jpg" width="666px" height="666px" />
+<img src="/imgs/DB/JC-DB1005/Rubber-Hex-Dumbbell-handle.jpg" width="666px" height="666px" />
 
 ### SERVICE
 * High-Quality Control.
