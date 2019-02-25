@@ -1,6 +1,6 @@
 ## Precor Urethane Mode Dumbbells
 
-{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
+<iframe width="100%" height="460px" src="https://www.youtube.com/embed/VTpMcVJ16tM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### PARAMETER 
 * **ITEM NO**: JC-DB1033
