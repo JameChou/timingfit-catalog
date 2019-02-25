@@ -1,0 +1,26 @@
+{
+	"plugins": [
+        "page-footer",
+	"alerts",
+	"youtube"
+	],
+	"pluginsConfig": {
+		"page-footer": {
+			"description": "modified at",
+			"signature": "TIMING FITNESS",
+			"wisdom": "To be the best fitness equipment manufacturer in China!",
+			"format": "yyyy-MM-dd hh:mm:ss",
+			"copyright": "Copyright &#169; NANJING TIMING FITNESS PRODUCTS CO., LTD",
+			"timeColor": "#666",
+			"copyrightColor": "#666",
+			"utcOffset": "8",
+			"isShowQRCode": true,
+			"baseUri": "https://blog.timingfit.com",
+                        "isShowIssues": false,
+			"repo": "aleen42/PersonalWiki",
+			"issueNum": "8",
+			"token": "",
+                        "style": "normal"
+		}
+	}
+}
