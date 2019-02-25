@@ -23,5 +23,11 @@
       * [Chromed Dumbbell](products/free-weights/dumbbells/chromed/chromed_dumbbell_db1007.md)
    * [Kettlebells](products/free-weights/kettlebells/kettlebells.md)
       * [Vinyl Dipped Kettlebell](products/free-weights/kettlebells/vinyl_dipped_kettlebell_kb1001.md)
+      * [Painting Hand Held Kettlebell](products/free-weights/kettlebells/painting_hand_held_kb1002.md)
+      * [Rubber Coated Kettlebell with Chromed Handle](products/free-weights/kettlebells/rubber_coated_kettlebell_chromed_handle_kb1003.md)
+      * [Steel Competition Kettlebell](products/free-weights/kettlebells/steel_competition_kettlebell_kb1004.md)
+      * [Ergonomic-Tone Vinyl Kettlebell](products/free-weights/kettlebells/ergonomic_tone_vinyl_kettlebell_kb1005.md)
+      * [Vinyl Cement Competition Kettlebell](products/free-weights/kettlebells/ergonomic_tone_vinyl_kettlebell_kb1005.md)
+      * [Cement Plastic Competition Kettlebell](products/free-weights/kettlebells/cement_plastic_competition_kettlebell_kb1006.md)
 
 * [CONTACT](contact.md)
