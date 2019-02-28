@@ -1,8 +1,9 @@
 {
 	"plugins": [
         "page-footer",
-	"alerts",
-	"youtube"
+	    "alerts",
+	    "youtube",
+        "sitemap"
 	],
 	"pluginsConfig": {
 		"page-footer": {
@@ -16,11 +17,14 @@
 			"utcOffset": "8",
 			"isShowQRCode": true,
 			"baseUri": "https://catalog.timingfit.com/",
-                        "isShowIssues": false,
+            "isShowIssues": false,
 			"repo": "aleen42/PersonalWiki",
 			"issueNum": "8",
 			"token": "",
-                        "style": "normal"
-		}
+            "style": "normal"
+		},
+        "sitemap": {
+            "hostname": "https://catalog.timingfit.com/"
+        }
 	}
 }
