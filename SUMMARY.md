@@ -44,5 +44,12 @@
    * [Barbells](products/free-weights/barbells/barbells.md)
       * [Elite Urethane Fixed Head Barbell](products/free-weights/barbells/elite_urethane_fixed_head_barbell_fob1001.md)
       * [American Captain Urethane Fixed Head Barbell](products/free-weights/barbells/american_cap_urethane_fixed_head_barbell_fob1002.md)
+   * [Medicine&Slam&Wall Balls](products/balls/balls.md)
+      * [Crossfit Training Sand Slam Ball](products/balls/crossfit_training_sand_slam_ball_sb1003.md)
+      * [Functional Training Slam Ball](products/balls/functional_training_slam_ball_sb1002.md)
+      * [Crossfit Training PU Wall Ball](products/balls/crossfit_training_pu_wall_ball_sb1001.md)
+      * [Rubber Medicine Ball with Handles](products/balls/rubber_medicine_ball_with_handles_meb1003.md)
+      * [Elite Rubber Medicine Ball](products/balls/elite_rubber_medicine_ball_meb1002.md)
+      * [Regular Rubber Medicine Ball](products/balls/regular_rubber_medicine_ball_meb1001.md)
 
 * [CONTACT](contact.md)

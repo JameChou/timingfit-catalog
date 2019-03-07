@@ -2,3 +2,4 @@ _book
 node_modules
 report*.json
 *.zip
+*.pdf
