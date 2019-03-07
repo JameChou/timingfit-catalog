@@ -14,6 +14,7 @@
 * **Fittable for bars OB50mm**
 * **Packing**: 20KG/CTN,then 1ton/wooden case
 
+### PHOTOS
 <img src="/imgs/WP/JC-WP1043/popular_rubber_coated_weight_plates.jpg" width="666px" height="666px" />
 <img src="/imgs/WP/JC-WP1043/popular_rubber_coated_weight_plates_details.jpg" width="666px" height="666px" />
 

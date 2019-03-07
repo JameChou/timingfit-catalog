@@ -44,25 +44,25 @@
             <td>6.</td>
             <td><a href="/products/free-weights/weight-plates/urethane_regular_weight_plates_wp1031.md">JC-WP1031</a></td>
             <td><a href="/products/free-weights/weight-plates/urethane_regular_weight_plates_wp1031.md"><img src="/imgs/WP/JC-WP1031/urethane_regular_3_weight_plates_all.jpg" width="100px" height="100px" /></a></td>
-            <td>Y</td>
+            <td>N</td>
         </tr>
         <tr>
             <td>7.</td>
             <td><a href="/products/free-weights/weight-plates/american_captain_urethane_weight_plates_wp1011.md">JC-WP1011</a></td>
             <td><a href="/products/free-weights/weight-plates/american_captain_urethane_weight_plates_wp1011.md"><img src="/imgs/WP/JC-WP1011/american_cap_urethane_weight_plates_all.jpg" width="100px" height="100px" /></a></td>
-            <td>Y</td>
+            <td>N</td>
         </tr>
         <tr>
             <td>8.</td>
             <td><a href="/products/free-weights/weight-plates/strength_training_low_odor_rubber_weight_plates_wp1015.md">JC-WP1015</a></td>
             <td><a href="/products/free-weights/weight-plates/strength_training_low_odor_rubber_weight_plates_wp1015.md"><img src="/imgs/WP/JC-WP1015/colorful_low_odor_rubber_weight_plates_red.jpg" width="100px" height="100px" /></a></td>
-            <td>Y</td>
+            <td>N</td>
         </tr>
         <tr>
             <td>9.</td>
             <td><a href="/products/free-weights/weight-plates/popular_rubber_coated_weight_plates_wp1043.md">JC-WP1043</a></td>
             <td><a href="/products/free-weights/weight-plates/popular_rubber_coated_weight_plates_wp1043.md"><img src="/imgs/WP/JC-WP1043/popular_rubber_coated_weight_plates.jpg" width="100px" height="100px" /></a></td>
-            <td>Y</td>
+            <td>N</td>
         </tr>
         <tr>
             <td>10.</td>
@@ -72,9 +72,9 @@
         </tr>
         <tr>
             <td>11.</td>
-            <td><a href="">JC-WP1002</a></td>
-            <td><a href=""><img src="" width="100px" height="100px" /></a></td>
-            <td>Y</td>
+            <td><a href="/products/free-weights/weight-plates/spray_print_cast_iron_weight_plates_wp1002.md">JC-WP1002</a></td>
+            <td><a href="/products/free-weights/weight-plates/spray_print_cast_iron_weight_plates_wp1002.md"><img src="/imgs/WP/JC-WP1002/spray-print_cast_iron_weight_plates.jpg" width="100px" height="100px" /></a></td>
+            <td>N</td>
         </tr>
     </tbody>
 </table>

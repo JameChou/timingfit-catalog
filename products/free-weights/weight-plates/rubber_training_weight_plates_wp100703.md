@@ -14,6 +14,7 @@
 * **Fittable for bars OB50mm**
 * **Packing**: 20KG/CTN,then 1ton/wooden case
 
+### PHOTOS
 <img src="/imgs/WP/JC-WP1007-3/training_rubber_bumper_plates.jpg" width="666px" height="666px" />
 <img src="/imgs/WP/JC-WP1007-3/training_rubber_bumper_plates_blue.jpg" width="666px" height="666px" />
 <img src="/imgs/WP/JC-WP1007-3/training_rubber_bumper_plates_green.jpg" width="666px" height="666px" />

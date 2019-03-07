@@ -14,6 +14,7 @@
 * **Fittable for bars dia**: 25mm, 28mm, 30mm, OB50mm
 * **Packing**: 20KG/CTN,then 1ton/wooden case
 
+### PHOTOS
 <img src="/imgs/WP/JC-WP1007/Rubber-bumper-plates-30mm.jpg" width="666px" height="666px" />
 <img src="/imgs/WP/JC-WP1007/Rubber-bumper-plates-30mm (2).jpg" width="666px" height="666px" />
 <img src="/imgs/WP/JC-WP1007/Rubber-bumper-plates-30mm (1).jpg" width="666px" height="666px" />

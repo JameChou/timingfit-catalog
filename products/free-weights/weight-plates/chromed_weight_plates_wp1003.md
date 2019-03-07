@@ -14,6 +14,7 @@
 * **Fittable for bars dia**: 25mm, 28mm, 30mm, OB50mm
 * **Packing**: 20KG/CTN,then 1ton/wooden case
 
+### PHOTOS
 <img src="/imgs/WP/JC-WP1003/chromed_weight_plates.jpg" width="666px" height="666px" />
 <img src="/imgs/WP/JC-WP1003/chromed_weight_plates (1).jpg" width="666px" height="666px" />
 

@@ -41,5 +41,8 @@
       * [Popular Rubber Coated Weight Plate](products/free-weights/weight-plates/popular_rubber_coated_weight_plates_wp1043.md)
       * [Chromed Weight Plate](products/free-weights/weight-plates/chromed_weight_plates_wp1003.md)
       * [Spray-print Cast Iron Weight Plate](products/free-weights/weight-plates/spray_print_cast_iron_weight_plates_wp1002.md)
+   * [Barbells](products/free-weights/barbells/barbells.md)
+      * [Elite Urethane Fixed Head Barbell](products/free-weights/barbells/elite_urethane_fixed_head_barbell_fob1001.md)
+      * [American Captain Urethane Fixed Head Barbell](products/free-weights/barbells/american_cap_urethane_fixed_head_barbell_fob1002.md)
 
 * [CONTACT](contact.md)
